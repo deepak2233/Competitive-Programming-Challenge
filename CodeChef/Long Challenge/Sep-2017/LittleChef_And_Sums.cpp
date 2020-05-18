@@ -7,7 +7,7 @@ Below is the implementation of the above approach:*/
 
 #include<bits/stdc++.h>
 #include<math.h>
-using namespace std;
+using namespace std;  
 
 int main()
 {
