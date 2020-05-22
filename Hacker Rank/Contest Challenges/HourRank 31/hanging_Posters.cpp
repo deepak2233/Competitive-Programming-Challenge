@@ -21,7 +21,7 @@ int main()
      {
          cin>>len_Poster[i];
      }    
-     
+      
      ll max_lad = 0;
     for(ll i = 0;i < num_Poster;i++){
 
